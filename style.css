@@ -117,7 +117,7 @@ header{
  /* here we go */
 .content1{
   height: 50vh;
-  width: 88vw;
+  width: 85vw;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -405,6 +405,7 @@ button{
   height: 10vh;
   width: 79vw;
   display: flex;
+  padding-left: 1em;
   box-shadow: 5px 5px rgba(0, 0, 0, 0.336);
   border-radius: 15px;
   justify-content: space-between;

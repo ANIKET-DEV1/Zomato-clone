@@ -1,2 +1,2 @@
-# Zomato Clone
+# ZOMATO CLONE
  
